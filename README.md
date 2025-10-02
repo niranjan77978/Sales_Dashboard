@@ -94,4 +94,4 @@ Final Dashboard
 
 The final result is a user-friendly, interactive dashboard titled "Retail Store Sales Dashboard". It features an interactive slicer for Category, allowing stakeholders to filter all visualizations simultaneously and drill down into specific areas of interest to uncover actionable insights.
 
-https://github.com/niranjan77978/Sales_Dashboard/blob/main/Dashboard.png
+![Retail Store Sales Dashboard](https://raw.githubusercontent.com/niranjan77978/Sales_Dashboard/main/Dashboard.png)
